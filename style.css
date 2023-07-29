@@ -1,0 +1,30 @@
+ #jack{
+    color:blue;
+    font-style: italic;
+    font-weight: bolder;
+    
+    
+    
+ }
+ .jackk2{
+    font-variant: small-caps;
+
+ }
+ *{
+    background-color: yellowgreen;
+     
+    background-color: blue ;
+ }
+ #new{
+      color:red;
+ }
+ .new1{
+    color:green  ; 
+ }
+
+ div{
+    color:white;
+    display: inline;
+    display:block
+
+ }
